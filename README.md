@@ -12,10 +12,6 @@ This is a simple static website hosted using **GitHub Pages**.
 
 my-github-pages-site/ ├── index.html └── README.md
 
-markdown
-Copy
-Edit
-
 ## 🛠️ How It Works
 
 1. Created an `index.html` file with basic HTML and CSS.
@@ -36,4 +32,4 @@ This project demonstrates how to:
 
 ---
 
-Feel free to fork or use this as a starting point for your ow
+Feel free to fork or use this as a starting point for your own
