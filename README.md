@@ -1,5 +1,3 @@
-# my-github-pages-site
-
 # My GitHub Pages Site
 
 This is a simple static website hosted using **GitHub Pages**.
